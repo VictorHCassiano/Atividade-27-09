@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(59, 161, 192);
+}
+a:hover {
+   color: gray;
+}
+.h1{
+    color: rgb(172, 172, 25);
+}
+.h3{
+    color: red;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+legend{
+    font-size: 20px;
+    font-style: italic;
+}
+.h2{
+    color: aquamarine;
+}
+
